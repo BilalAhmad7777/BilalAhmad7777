@@ -1,107 +1,131 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Bilal Ahmad Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
-
-<h3 align="center">
-Aspiring Software Developer • React • Flask • MongoDB • C++
-</h3>
+<h3 align="center">Aspiring Full Stack Developer | React • Flask • MongoDB • C++</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;Learning+DSA+with+C%2B%2B;Building+Projects+Every+Week;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;React+%7C+Flask+%7C+MongoDB;Learning+DSA+with+C%2B%2B;Building+Projects+Every+Week;Open+to+Internship+Opportunities"/>
+</p>
+
+<p align="center">
+<a href="mailto:bilalahmad180003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/BilalAhmad7777"><img src="https://img.shields.io/badge/GitHub-BilalAhmad7777-181717?style=for-the-badge&logo=github"></a>
+<a href="https://leetcode.com/u/Bilal777777/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://www.linkedin.com/in/bilal-ahmad-a91b82189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech in Electronics Engineering (VLSI)
-- 💻 Learning Full Stack Development with React & Flask
-- 🌱 Currently improving Data Structures & Algorithms using C++
-- 🚀 Building real-world projects to strengthen my development skills
-- 🎯 Looking for Software Development Internship opportunities
+- 🎓 B.Tech (Electronics Engineering - VLSI)
+- 💜 Building scalable web applications with React, Flask and MongoDB
+- 🌱 Learning Data Structures & Algorithms using C++
+- 🚀 Open to Software Development Internship opportunities
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,flask,nodejs,mongodb,git,github,vscode" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css"/>
 </p>
 
+**Also Familiar With:** SQL
+
+### Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask,mongodb,git,github,vscode"/>
+</p>
+
+**Also Used:** JWT • REST APIs • MongoDB Atlas • Cloudinary • Render • Vercel
+
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🎉 Campus Event Management System
+## 🎉 Campus Event Management System
 
-A full-stack platform for managing college events.
+Full-stack platform for managing college events.
 
-**Features**
+**Highlights**
 - JWT Authentication
-- Student / Organizer / Admin Roles
-- Event Registration
-- Waitlist Management
+- Student / Organizer / Admin roles
+- Event Registration & Waitlist
 - Attendance Tracking
 - Analytics Dashboard
 
-**Tech Stack**
-- React
-- Flask
-- MongoDB
-- JWT
-- Cloudinary
+<p>
+<a href="https://campusevent1803.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"></a>
+<a href="https://github.com/BilalAhmad7777/CampusEvent"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"></a>
+</p>
 
----
+## 🌍 Atlas Game
 
-### 🌍 Atlas Game
+Interactive geography guessing game.
 
-A geography-based web game where players guess countries and improve their world knowledge.
-
-**Tech Stack**
-- React
-- JavaScript
-- CSS
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BilalAhmad7777&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAhmad7777&layout=compact&theme=tokyonight"/>
-
+<p>
+<a href="https://github.com/BilalAhmad7777/Atlas-Game"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
+# 📊 GitHub Analytics
+
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAhmad7777&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BilalAhmad7777&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAhmad7777&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAhmad7777&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 📈 Contribution Graph
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAhmad7777&theme=tokyo-night"/>
+</p>
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/BilalAhmad7777">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BilalAhmad7777&theme=tokyonight"/>
 </p>
 
 ---
 
+# 🟨 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Bilal777777?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> After enabling the GitHub Action, this image will appear automatically.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BilalAhmad7777/BilalAhmad7777/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BilalAhmad7777&style=for-the-badge&color=blue"/>
+</p>
+
+<p align="center">
 ⭐ Thanks for visiting my profile!
+</p>
