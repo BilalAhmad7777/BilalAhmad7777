@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/BilalAhmad7777">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+with+React%2C+Flask+%26+MongoDB;VLSI+Engineering+Student+%7C+GCET;Solved+100%2B+problems+on+LeetCode;Open+to+Software+Development+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&width=780&lines=Building+scalable+web+apps+with+React%2C+Flask+%26+MongoDB;VLSI+Engineering+Student+%7C+GCET;Solved+100%2B+problems+on+LeetCode;Open+to+Software+Development+Internships" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -101,7 +101,7 @@ Full-stack event platform for students, organizers & admins with role-based acce
 
 `React` `Flask` `MongoDB` `JWT`
 
-<a href="https://github.com/BilalAhmad7777/CampusConnect"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FFFF&labelColor=0A0A0A"/></a>
+<a href="https://github.com/BilalAhmad7777/CampusEvent"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FFFF&labelColor=0A0A0A"/></a>
 <a href="https://campusevent1803.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0A0A0A?style=flat-square&logo=vercel&logoColor=B026FF&labelColor=0A0A0A"/></a>
 
 </td>
