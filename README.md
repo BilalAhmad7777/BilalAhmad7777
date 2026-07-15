@@ -102,6 +102,7 @@ Full-stack event platform for students, organizers & admins with role-based acce
 `React` `Flask` `MongoDB` `JWT`
 
 <a href="https://github.com/BilalAhmad7777/CampusEvent"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FFFF&labelColor=0A0A0A"/></a>
+<br/>
 <a href="https://campusevent1803.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0A0A0A?style=flat-square&logo=vercel&logoColor=B026FF&labelColor=0A0A0A"/></a>
 
 </td>
@@ -129,8 +130,8 @@ Real-time multiplayer country name-chain game with AI opponent, turn management,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BilalAhmad7777&show_icons=true&theme=radical&bg_color=0A0A0A&hide_border=true&title_color=B026FF&icon_color=00FFFF&text_color=E0E0E0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAhmad7777&layout=compact&theme=radical&bg_color=0A0A0A&hide_border=true&title_color=B026FF&text_color=E0E0E0"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=BilalAhmad7777&show_icons=true&theme=radical&bg_color=0A0A0A&hide_border=true&title_color=B026FF&icon_color=00FFFF&text_color=E0E0E0"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BilalAhmad7777&layout=compact&theme=radical&bg_color=0A0A0A&hide_border=true&title_color=B026FF&text_color=E0E0E0"/>
 
 <br/>
 
