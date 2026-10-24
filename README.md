@@ -137,10 +137,6 @@ Real-time multiplayer country name-chain game with AI opponent, turn management,
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAhmad7777&theme=radical&background=0A0A0A&border=0A0A0A&stroke=B026FF&ring=00FFFF&fire=B026FF&currStreakLabel=00FFFF"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAhmad7777&theme=react-dark&bg_color=0A0A0A&color=00FFFF&line=B026FF&point=FFFFFF&hide_border=true" width="95%"/>
-
 </div>
 
 <br/>
@@ -175,7 +171,9 @@ Real-time multiplayer country name-chain game with AI opponent, turn management,
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=BilalAhmad7777&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://github.com/BilalAhmad7777">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=BilalAhmad7777&color=B026FF&style=for-the-badge&label=PROFILE%20VIEWS"/>
+</a>
 
 <br/><br/>
 
